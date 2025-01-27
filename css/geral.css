@@ -122,6 +122,14 @@ body {
   margin-bottom: 3rem;
 }
 
+.descricaoAnimais section p {
+  margin-bottom: 16px;
+}
+
+.descricaoAnimais section p:last-child {
+  margin-bottom: 0;
+}
+
 .listaFaq {
   grid-column: 2/4;
 }
