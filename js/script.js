@@ -43,4 +43,4 @@ menuMobile.init();
 const funcionamento = new Funcionamento("[data-semana]", "aberto");
 funcionamento.init();
 
-fetchAnimais("../../animaisapi.json", ".numerosGrid");
+fetchAnimais("./animaisapi.json", ".numerosGrid");
