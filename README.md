@@ -43,3 +43,4 @@ O projeto consiste em um site informativo sobre diferentes animais, permitindo e
 
 Além disso, trabalhei com promises, fetch API, expressões regulares (RegExp) e conceitos fundamentais para estruturar aplicações modernas com Babel e Webpack.
 
+👉 [Clique aqui para acessar o projeto!](https://gabriellytegon.github.io/Site-Origamid/) 
